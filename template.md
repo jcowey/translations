@@ -36,7 +36,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change when="2024-01-16T08:21:29-04:00"
+            <change when="2024-01-16T08:21:29-04:00"                                   <!-- change date accordingly -->
                 who="http://papyri.info/editor/users/mgelmaghrabi">Uploaded translation from the volume with added line breaks</change>
         </revisionDesc>
     </teiHeader>
@@ -46,7 +46,7 @@
             <p>                                                             
                 <!-- replace the content below with the relevant translation -->
                <milestone n="1" unit="line"/> Herakleitos 
-                <note>Translation: A.C. Johnson, Roman Egypt (1936) no. </note>  <!-- add the number accordingly -->      
+                <note>Translation: A.C. Johnson, Roman Egypt (1936) no. </note>        <!-- add the number accordingly -->      
             </p>
          </div>
         </body>
