@@ -45,7 +45,9 @@
             <div xml:lang="de" xml:space="preserve" type="translation">
             <p>                                                             
                 <!-- replace the content below with the relevant translation -->
-               <milestone n="1" unit="line"/> Herakleitos 
+
+               <milestone n="1" unit="line"/> Herakleitos
+
                 <note>Translation: A.C. Johnson, Roman Egypt (1936) no. </note>        <!-- add the number accordingly -->      
             </p>
          </div>
