@@ -6,7 +6,7 @@
     <teiHeader type="text">
         <fileDesc>
             <titleStmt>
-                <title>P.KölnSarapion 1</title>                            <!-- change accordingly -->
+                <title>P.KölnSarapion 1</title>                            <!-- change accordingly, use HGV: title -->
             </titleStmt>
             <publicationStmt>
                 <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
